@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HosinQM/uniproject/issues"
   },
-  "homepage": "https://github.com/HosinQM/uniproject#readme"
+  "homepage": "https://github.com/HosinQM/uniproject#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
